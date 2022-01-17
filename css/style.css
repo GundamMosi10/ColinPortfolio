@@ -20,6 +20,7 @@ body {
 
 /*For the header*/
 .header {
+    font-size: 40px;
     background-color: white;
     padding: 30px;
     border-bottom: forestgreen 4px solid
@@ -47,11 +48,20 @@ body {
 }
 
 #About-Me {
+    font-size: 20px;
+    display: flex;
     background-color: gainsboro;
     border-bottom: forestgreen 4px solid;
     border-top: forestgreen 4px solid;
     padding-left: 20px;
     padding-right: 20px;
+}
+#About-Me p {
+    font-size: 15px;
+}
+
+#About-Me img {
+    width: 100%;
 }
 
 .Projects {
@@ -70,8 +80,13 @@ body {
     border-radius: 50px 50px 0px 0px;
     padding: 20px;
     text-align: center;
-  
 }
+
+.Projects h3 a:hover {
+    color: coral;
+    font-weight: bold;
+}
+
 .Projects img {
     height: 300px;
     width: 100%;
@@ -94,6 +109,7 @@ body {
 }
 
 #Contact-Me {
+    font-size: 20px;
     background-color: gainsboro;
     border-top: forestgreen 4px solid;
     border-bottom: forestgreen 4px solid;
@@ -101,11 +117,17 @@ body {
     padding-left: 20px;
 }
 
+#Contact-Me ul li {
+    font-size: 15px;
+    display: block;
+}
+
 /*The Footer*/
 footer {
     background-color: grey;
     padding-left: 20px;
     padding-right: 20px;
+    justify-content: center;
 }
 
 @media(max-width: 768px){
