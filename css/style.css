@@ -8,38 +8,57 @@ body {
     font-family: Georgia, Times, 'Times New Roman', serif;
     line-height: 1.5;
     font-size: 15px;
-    background-color: antiquewhite;
-    width: 80%;
+    background-color: white;
+    width: 90%;
     margin: auto;
 }
 
 
 /*For the header*/
 .header {
-    background-color: aqua;
+    background-color: gray;
     padding: 30px;
-    border-bottom: crimson 4px solid;
-
+    border-bottom: forestgreen 4px solid
 }
 
 
 /*For the Navigation bar*/
 .nav-bar {
-    background-color: antiquewhite;
-    text-decoration: none;
-    color: black;
+    background-color: whitesmoke;
+    text-transform: uppercase;
 }
 
+.nav-bar ul li {
+    float: right;
+    display: inline;
+    padding: 10px 20px 10px 20px;
+}
 
 
 /*For each card that has information about me, contact me and my projects*/
 .card {
-    background-color: cadetblue;
+    background-color: gainsboro;
+    border-bottom: forestgreen 4px solid;
+}
+
+.Projects {
+  border-style:groove;
+  border-width: 1px;
+  border-radius: 50px;
+  padding: 10px;
+  flex: 0 0 300px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  margin: 20px;
+}
+
+.Projects h3 {
+  border-radius: 50px 50px 0px 0px;
+  padding: 20px;
 }
 
 
 /*The Footer*/
 footer {
-    background-color: coral;
+    background-color: grey;
 }
 

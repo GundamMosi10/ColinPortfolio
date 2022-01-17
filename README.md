@@ -6,3 +6,6 @@ Created the footer with the h3 tag
 Added 3 articles with sections inside of them each with their own headers 
 started the css sheet with the body and made the font and color of the background and the size of the padding on all sides of the H1
 I gave background colors to all the sections of the page to make it easier to see when Iam editing the page 
+Within the sections with the projects 1-4 I renamed those parts 'Projects'and gave each of them a 'h3'
+In the css I gave each of them a border and style with box shadowing gave them a little margin and flex
+I also rounded the edges of the top of the borders in each Project section
