@@ -55,7 +55,16 @@ body {
   border-radius: 50px 50px 0px 0px;
   padding: 20px;
 }
+.Projects img {
+    height: 500px;
+    width: 500px;
+    padding-left: 20px;
+}
 
+.Projects p {
+    display: inline;
+    text-align: center;
+}
 
 /*The Footer*/
 footer {
