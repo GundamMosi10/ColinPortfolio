@@ -12,3 +12,5 @@ I also rounded the edges of the top of the borders in each Project section
 Added placeholder image folder and added one image to the projects 1 section with an alt description of the image itself
 Added the p tag to all the project sections with 'Lorem'
 Gave the project images a definition of height and width to see how they look, I will probably change that down the line 
+Resized the Project sections and the images inside of them
+Connected the navigator bar to the sections below the about me, projects and contact me
