@@ -16,3 +16,6 @@ Resized the Project sections and the images inside of them
 Connected the navigator bar to the sections below the about me, projects and contact me
 Added in flex properties to allow for the page to move to smaller constraints to allow people to view all the content 
 Reshaped the way the section for porjects looks trying to make it so only 2 projects per line so we are getting there
+Adding a hover for the nav-bar made the color of the hover is coral
+added more Lorem ipsum to the about me section and changed up the titles of each of the projects 
+Created a reset file in css and attached it to the html before my own style sheet to reset the browser information 
