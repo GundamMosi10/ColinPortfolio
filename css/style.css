@@ -3,7 +3,43 @@
     padding: 0;
     margin: 0;
 }
-
+/*This is for the entire page*/
 body {
-    font-family: monospace;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.5;
+    font-size: 15px;
+    background-color: antiquewhite;
+    width: 80%;
+    margin: auto;
 }
+
+
+/*For the header*/
+.header {
+    background-color: aqua;
+    padding: 30px;
+    border-bottom: crimson 4px solid;
+
+}
+
+
+/*For the Navigation bar*/
+.nav-bar {
+    background-color: antiquewhite;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+/*For each card that has information about me, contact me and my projects*/
+.card {
+    background-color: cadetblue;
+}
+
+
+/*The Footer*/
+footer {
+    background-color: coral;
+}
+
