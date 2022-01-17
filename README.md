@@ -14,3 +14,5 @@ Added the p tag to all the project sections with 'Lorem'
 Gave the project images a definition of height and width to see how they look, I will probably change that down the line 
 Resized the Project sections and the images inside of them
 Connected the navigator bar to the sections below the about me, projects and contact me
+Added in flex properties to allow for the page to move to smaller constraints to allow people to view all the content 
+Reshaped the way the section for porjects looks trying to make it so only 2 projects per line so we are getting there

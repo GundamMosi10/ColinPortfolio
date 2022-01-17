@@ -6,55 +6,66 @@
 /*This is for the entire page*/
 body {
     font-family: Georgia, Times, 'Times New Roman', serif;
+    color: black;
     line-height: 1.5;
     font-size: 15px;
     background-color: white;
     width: 90%;
     margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
 
 /*For the header*/
 .header {
-    background-color: gray;
+    background-color: white;
     padding: 30px;
     border-bottom: forestgreen 4px solid
+
 }
 
 
 /*For the Navigation bar*/
 .nav-bar {
-    background-color: whitesmoke;
+    background-color: white;
     text-transform: uppercase;
+    display: flex;
 }
 
 .nav-bar ul li {
-    float: right;
+    float: left;
     display: inline;
     padding: 10px 20px 10px 20px;
+
 }
 
-.card {
+#About-Me {
     background-color: gainsboro;
     border-bottom: forestgreen 4px solid;
+    border-top: forestgreen 4px solid;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .Projects {
-  border-style:groove;
-  border-width: 1px;
-  border-radius: 50px;
-  padding: 10px;
-  flex: 0 0 300px;
-  box-shadow: 10px 10px 5px #aaaaaa;
-  margin: 20px;
-  height: 500px;
-  width: 600px;
+    border-style:solid;
+    border-width: 1px;
+    border-radius: 50px;
+    padding: 10px;
+    flex: 0 0 300px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin: 20px;
+    height: 600px;
+    width: 800px;
 }
 
 .Projects h3 {
-  border-radius: 50px 50px 0px 0px;
-  padding: 20px;
-  text-align: center;
+    border-radius: 50px 50px 0px 0px;
+    padding: 20px;
+    text-align: center;
+  
 }
 .Projects img {
     height: 300px;
@@ -68,8 +79,26 @@ body {
     text-align: center;
 }
 
+#My-Projects {
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+#Contact-Me {
+    background-color: gainsboro;
+    border-top: forestgreen 4px solid;
+    border-bottom: forestgreen 4px solid;
+    border-style: solid;
+    padding-left: 20px;
+}
+
 /*The Footer*/
 footer {
     background-color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
