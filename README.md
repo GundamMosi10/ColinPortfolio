@@ -19,3 +19,5 @@ Reshaped the way the section for porjects looks trying to make it so only 2 proj
 Adding a hover for the nav-bar made the color of the hover is coral
 added more Lorem ipsum to the about me section and changed up the titles of each of the projects 
 Created a reset file in css and attached it to the html before my own style sheet to reset the browser information 
+Added an self portrait image for the about me section created links for each of the project pages 
+Used the gradiant tool to make the background of the page different color than white 
