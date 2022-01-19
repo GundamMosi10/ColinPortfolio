@@ -21,10 +21,9 @@
 ![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot3.jpeg "Colin's Portfolio Screen Shot 3")
 ![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot4.jpeg "Colin's Portfolio Screen Shot 4")
 
+[Colin'sPortfolio](https://gundammosi10.github.io/ColinPortfolio/)
 
-    Click [Colin'sPortfolio](https://gundammosi10.github.io/ColinPortfolio/)
-
-    Click for [Github](https://github.com/GundamMosi10/ColinPortfolio)
+[Colin'sGithub](https://github.com/GundamMosi10/ColinPortfolio)
 
 ## Usage: 
 
