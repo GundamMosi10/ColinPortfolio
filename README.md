@@ -21,3 +21,5 @@ added more Lorem ipsum to the about me section and changed up the titles of each
 Created a reset file in css and attached it to the html before my own style sheet to reset the browser information 
 Added an self portrait image for the about me section created links for each of the project pages 
 Used the gradiant tool to make the background of the page different color than white 
+Created a new article in the html for the feature project to make that the single big project on the page I added a photo and linked the site to another page I also added some paragraph text below the image with Lorem Ipsum 
+In the css I set up the box that will contain the feature project and the header and the dimensions that will hold the image with in it
