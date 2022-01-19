@@ -1,4 +1,28 @@
-# ColinPortfolio
+# Colin's Portfolio
+
+## Table of Contents
+[Description](#Description)
+[Deployment](#Deployment)
+[Usage](#Usage)
+[Contributors](#Contributors)
+[Credits](#Credits)
+[License](#License)
+[Testing](#Testing)
+
+## Description:
+    This application is a one-page front end webpage about myself and the applications that I have made during my career.
+## Deployment: 
+    Click [here](URL)
+## Usage: 
+
+## Contributors:
+    This project is a collaborative effort between me, myself and I.
+## Credits:
+
+## License:
+
+## Testing: 
+
 Updated the title tag and linked the css style sheet to the html 
 created the h1 tag for the header
 created a nav bar on the left hand side using 'ul' and populated it with About me, Projects, and contact me

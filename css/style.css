@@ -75,7 +75,6 @@ body {
 }
 
 #FeatureProject {
-    flex: 1;
     display: flex;
     flex-wrap: wrap;
     border-bottom: white 4px solid;
@@ -86,6 +85,7 @@ body {
 .Hero-Project {
     display: flex;
     flex-wrap: wrap;
+    flex: 1 1 auto;
     border-style: solid;
     border-radius: 50px;
     box-shadow: 10px 10px 5px #aaaaaa;
@@ -106,11 +106,12 @@ body {
 .Hero-Project p {
     display: flex;
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     align-items: flex-end;
 }
 
-.Hero-Project h3 {
+#FeatureProject h3 {
+    font-size: 20px;
     border-radius: 50px 50px 0px 0px;
     padding: 20px;
     position: relative;
