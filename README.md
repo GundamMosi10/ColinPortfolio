@@ -14,10 +14,10 @@
 
 
 ## Deployment: 
-![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot1 "Colin's Portfolio Screen Shot 1")
-![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot2 "Colin's Portfolio Screen Shot 2")
-![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot3 "Colin's Portfolio Screen Shot 3")
-![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot4 "Colin's Portfolio Screen Shot 4")
+![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot1.jpeg "Colin's Portfolio Screen Shot 1")
+![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot2.jpeg "Colin's Portfolio Screen Shot 2")
+![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot3.jpeg "Colin's Portfolio Screen Shot 3")
+![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot4.jpeg "Colin's Portfolio Screen Shot 4")
 
 [Colin'sPortfolio](https://gundammosi10.github.io/ColinPortfolio/)
 
