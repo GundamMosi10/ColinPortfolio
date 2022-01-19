@@ -58,11 +58,9 @@ body {
     background: radial-gradient(circle, rgba(174,238,232,1) 0%, rgba(197,219,211,1) 100%);
     border-bottom: white 4px solid;
     border-top: white 4px solid;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding: 20px;
 }
+
 #About-Me p {
     font-size: 15px;
 }
@@ -73,12 +71,14 @@ body {
 
 #About-Me h2 {
     text-align: center;
+    padding-bottom: 20px;
 }
 
 #FeatureProject {
     flex: 1;
     display: flex;
     flex-wrap: wrap;
+    border-bottom: white 4px solid;
     background: rgb(174,238,232);
     background: radial-gradient(circle, rgba(174,238,232,1) 0%, rgba(197,219,211,1) 100%);
 }
@@ -88,18 +88,32 @@ body {
     flex-wrap: wrap;
     border-style: solid;
     border-radius: 50px;
-    padding: 10px;
-    margin: 20px;
     box-shadow: 10px 10px 5px #aaaaaa;
-    height: 1000px;
-    width: 100%;
+    margin: 20px;
+    padding: 20px;
     background-color: white;
+    height: 900px;
+    width: 100%;
+}
+
+.Hero-Project img {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.Hero-Project p {
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    align-items: flex-end;
 }
 
 .Hero-Project h3 {
     border-radius: 50px 50px 0px 0px;
     padding: 20px;
-    justify-content: center;
+    position: relative;
     text-align: center;
 }
 
