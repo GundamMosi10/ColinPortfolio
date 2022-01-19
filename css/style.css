@@ -71,6 +71,33 @@ body {
     width: 100%;
 }
 
+#FeatureProject {
+    border-style: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    height: 600px;
+}
+
+#FeatureProject h3 {
+    border-radius: 50px 50px 0px 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+#FeatureProject img {
+    height: 300px;
+    
+}
+
+#FeatureProject p {
+    display: inline;
+    flex-wrap: flex;
+    text-align: center;
+    width: 80%;
+}
+
 .Projects {
     border-width: 1px;
     border-radius: 50px;
