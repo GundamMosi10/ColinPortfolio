@@ -16,16 +16,14 @@
 [Testing](#Testing) 
 
 ## Deployment: 
-    Click [ColinPortfolio](https://gundammosi10.github.io/ColinPortfolio/)
+    Click [Colin's Portfolio](https://gundammosi10.github.io/ColinPortfolio/)
 
     Click for [Github](https://github.com/GundamMosi10/ColinPortfolio)
 
 ## Usage: 
 
-
 ## Contributors:
-    This project is a collaborative effort between me, myself and I.
-
+    
 ## Credits:
     
 ## License:
