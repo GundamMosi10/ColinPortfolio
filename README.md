@@ -25,8 +25,8 @@
     This project is a collaborative effort between me, myself and I.
 
 ## Credits:
-    I used Free Stock photos from [this](https://www.pexels.com/) website.
-    
+    [This is an external link to pexels.com](https://www.pexels.com) 
+    [Link to Google](https://www.google.com)
 
 ## License:
 
