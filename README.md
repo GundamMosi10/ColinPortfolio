@@ -16,7 +16,9 @@
 [Testing](#Testing) 
 
 ## Deployment: 
-    Click [here](URL)
+    Click [ColinPortfolio](https://gundammosi10.github.io/ColinPortfolio/)
+
+    Click for [Github](https://github.com/GundamMosi10/ColinPortfolio)
 
 ## Usage: 
 
@@ -25,10 +27,7 @@
     This project is a collaborative effort between me, myself and I.
 
 ## Credits:
-    This is an external link to [pexels.com](#https://www.pexels.com)
     
-    
-
 ## License:
 
 ## Testing: 
