@@ -11,9 +11,7 @@
 [Deployment](#Deployment)
 [Usage](#Usage)
 [Contributors](#Contributors)
-[Credits](#Credits)
-[License](#License)
-[Testing](#Testing) 
+
 
 ## Deployment: 
 ![Colin'sPortfolio](/Assets/Images/Colin'sPortfolioScreenShot1 "Colin's Portfolio Screen Shot 1")
@@ -29,20 +27,5 @@
 
 ## Contributors:
     
-## Credits:
-https://www.pexels.com/photo/selective-focus-photography-of-person-holding-the-adventure-begins-mug-891252/
-
-https://www.pexels.com/photo/diamond-pear-cut-ring-on-brown-leaf-with-snow-776372/
-
-https://www.pexels.com/photo/focus-photo-of-camera-lens-752525/
-
-https://www.pexels.com/photo/stock-exchange-board-210607/
-
-https://www.pexels.com/photo/close-up-view-of-system-hacking-5380642/
-
-
-## License:
-
-## Testing: 
 
 
