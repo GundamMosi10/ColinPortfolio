@@ -25,8 +25,8 @@
     This project is a collaborative effort between me, myself and I.
 
 ## Credits:
-    This is an external link to [pexels.com](https://www.pexels.com)
-    <a href="https://www.pexels.com">link</a>
+    This is an external link to [pexels.com](#https://www.pexels.com)
+    
     
 
 ## License:
